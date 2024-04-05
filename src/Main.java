@@ -7,6 +7,10 @@ public class Main {
 
         System.out.println("Ispis");
 
+          System.out.println("Ispis");
+
+          System.out.println("Ispis");
+
 
     }
 
